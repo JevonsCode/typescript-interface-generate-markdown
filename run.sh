@@ -1,0 +1,1 @@
+typedoc --json ./types-json/types.json ../js/src/**/*.ts && node ./index.js
