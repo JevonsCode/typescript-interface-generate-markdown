@@ -79,7 +79,7 @@ demoStatus(v);
 
 ---
 
-## State $^{enum}$
+## State enum
 > 枚举的 Exp
 
 | enum key | enum value | 描述 |

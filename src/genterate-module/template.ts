@@ -163,9 +163,10 @@ class Templates {
             .replace(/\n\n/g, "<br />")
             .replace(/\n/g, "")} |`;
         })
-        .join("\n")}`;
+        .join("\n")}\n\n`;
 
-    const _name = prop.name + " $^{enum}$";
+    // 添加一个 enum 标识
+    const _name = prop.name + " enum"; // " $^{enum}$"
 
     return `
     ${Style.setTitle([_name, prop.id], 2)}

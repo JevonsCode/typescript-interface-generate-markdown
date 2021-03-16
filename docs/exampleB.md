@@ -92,7 +92,7 @@ B((param) => console.log("-> %s"， param));
 
 ---
 
-## IENUM $^{enum}$
+## IENUM enum
 
 | enum key | enum value | 描述 |
 | :----: | :----: | ------ |
@@ -100,6 +100,7 @@ B((param) => console.log("-> %s"， param));
 | Q | "q" |  |
 | R | "r" |  |
 | W | "w" |  |
+
 *这是一个枚举*
 
 ---
