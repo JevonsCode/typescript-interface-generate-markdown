@@ -1,7 +1,7 @@
 # 注释生成文档
 
 > JSON2TABLE  
-> markdown 生成示例：http://还.彳亍.com/typescript-interface-generate-markdown/
+> markdown 生成示例：http://xn--8ovp9s.xn--m8txu.com/typescript-interface-generate-markdown/
 
 ## 运行
 
